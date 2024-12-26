@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(203, 236, 225);
+}
+.gallery{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    border:3px solid beige;
+    padding: 10px;
+    background-color: rgb(242, 223, 242);
+}
+.gallery img{
+    height: 250px;
+    width: auto;
+    border: 3px solid black;
+    margin: 10px;
+}

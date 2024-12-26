@@ -1,0 +1,38 @@
+body{
+    text-align: left;
+    background-color: rgb(97, 243, 194);
+}
+.jokes{
+    display:block;
+    flex-direction: column;
+    border:3px solid rgb(1, 16, 1);
+    background-color: antiquewhite;
+    margin: 20px auto;
+    padding: 10px;
+}
+.joke{
+    text-align: center;
+    border:3px solid rgb(161, 236, 108);
+    padding: 10px;
+    background-color: rgb(242, 223, 242);
+}
+.jokes h1{
+    margin:0;
+    color: red;
+}
+.jokes h2{
+margin:0;
+color:rgb(18, 8, 1);
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+}
+.jokes h3{
+    margin:0;
+    font-weight: 1000;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: blue;
+}
+.joke2{
+    background: pink;
+}

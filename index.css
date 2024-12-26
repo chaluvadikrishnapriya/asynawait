@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(231, 238, 225);
+    text-align: center;
+}
+.post{
+    display:inline-flex;
+    flex-direction: column;
+    border:3px solid green;
+    background-color: antiquewhite;
+    margin: 20px auto;
+    padding: 10px;
+}
+.post h1{
+    margin:0;
+}
+.post h2{
+margin:0;
+color:rgb(255, 106, 0);
+}
+.post h3{
+    margin:0;
+}
